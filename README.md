@@ -103,6 +103,7 @@ Menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro Football
 9. Panthers
 10. Patriots
 ---
+**Hasil Analisis**
 - Perbandingan kehadiran penonton kandang vs. tandang (10 top tom)
   Sepanjang liga NFL diadakan, jumlah penonton di pertandingan kandang selalu lebih banyak dari pertandingan tandang
 
@@ -124,11 +125,12 @@ Menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro Football
 ---
 **Rangkuman**
 Hasil analisis di atas dapat disimpulkan bahwa tim Dallas Cowboys dan New York Giants menduduki peringkat teratas dalam hal jumlah penonton harian, mencerminkan popularitas yang sangat besar di kalangan penggemar. Kehadiran penonton di pertandingan kandang secara lebih tinggi daripada di pertandingan tandang, menunjukkan dukungan kuat dari basis penggemar setia di lokasi mereka. Tren tahunan menunjukkan fluktuasi, dengan jumlah penonton terendah tercatat pada tahun 2001, sedangkan tahun 2016 menandai puncak kehadiran. Cowboys menonjol sebagai tim dengan kehadiran tertinggi pada tahun 2016 dan 2019, sementara tim Jets mencatat kehadiran tertinggi pada tahun 2001. Perbandingan antara Jets dan Cowboys menunjukkan penurunan yang signifikan pada tim Jets, sementara Cowboys menunjukkan pertumbuhan yang stabil. Selain itu, tim Redskins menunjukkan perbedaan paling mencolok dalam perbandingan kehadiran antara pertandingan kandang dan tandang, semakin menggarisbawahi variasi dalam pengalaman penonton di berbagai venue.
+
 ---
 **Temuan**
 1. Dari variabel weekly_attandance, variabel baru dapat dibuat yakni daily_attendance
 2. Popularitas tim Jets semakin menurun, namun selalu berada pada 10 top tim dengan penonton terbanyak, menandakan kesetiaan penggemar tim Jets
-3. Tim Cowboys pada tahun awal-awal bahkan tidak termasuk dalam 10 top tim, namun bejalannya tahun popularitasnya semakin naik, dimana puncaknya pada tahun 2016, dan naik paling tajam di tahun 2009. 
+3. Tim Cowboys pada tahun awal-awal bahkan tidak termasuk dalam 10 top tim, namun bejalannya tahun popularitasnya semakin naik, dimana puncaknya pada tahun 2016, dan naik paling tajam di tahun 2009.
 ---
 
 # 🐣 **Kelompok :**
