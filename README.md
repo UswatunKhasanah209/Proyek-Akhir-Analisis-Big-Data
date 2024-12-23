@@ -26,9 +26,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 5. membandingkan total kehadiran dan rata-rata kehadiran mingguan antara dua tim populer, Cowboys dan Jets, pada tahun 2019.
 
 
-🗃 **Dataset** 
-
-[Dataset NLF](https://www.dropbox.com/sh/q5a07l8yynlgwa7/AADwJykQfJLSSRZsfzLh2ylsa?dl=1)
+🗃 **Dataset** [Dataset NLF](https://www.dropbox.com/sh/q5a07l8yynlgwa7/AADwJykQfJLSSRZsfzLh2ylsa?dl=1)
 
 <!DOCTYPE html>
 <html>
@@ -105,8 +103,8 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
    - Membandingkan rata-rata kehadiran antara pertandingan kandang dan tandang.
    - Visualisasi tren mingguan kehadiran sepanjang musim.
 4. Insight dan Visualisasi
-   - Membuat grafik kehadiran mingguan untuk setiap tim.
-   - Analisis perbedaan kehadiran berdasarkan lokasi pertandingan.
+   - Membuat grafik Top 10 Teams with the Highest Total Daily Attendance Across All Years, Perbandingan Kehadiran Penonton Home vs. Away (Top 10 Tim), Tren Kehadiran Total Penonton Tahunan Semua Tim, Top 10 Tim Dengan Kehadiran Penonton Tertinggi di Tahun 2016, Top 10 Tim Dengan Kehadiran Penonton Tertinggi di Tahun 2001.
+   - Analisis PerbandinganTotal Kehadiran: Cowboys vs Jets (2019)
 5. Kesimpulan dan Rekomendasi
    - Menyimpulkan pola yang ditemukan.
    - Memberikan rekomendasi untuk meningkatkan kehadiran penonton.
