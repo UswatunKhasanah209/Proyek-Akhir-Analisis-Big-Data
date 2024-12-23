@@ -103,11 +103,16 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
    - Membandingkan rata-rata kehadiran antara pertandingan kandang dan tandang.
    - Visualisasi tren mingguan kehadiran sepanjang musim.
 4. Insight dan Visualisasi
-   - Membuat grafik Top 10 Teams with the Highest Total Daily Attendance Across All Years, Perbandingan Kehadiran Penonton Home vs. Away (Top 10 Tim), Tren Kehadiran Total Penonton Tahunan Semua Tim, Top 10 Tim Dengan Kehadiran Penonton Tertinggi di Tahun 2016, Top 10 Tim Dengan Kehadiran Penonton Tertinggi di Tahun 2001.
-   - Analisis PerbandinganTotal Kehadiran: Cowboys vs Jets (2019)
+   - Membuat grafik kehadiran mingguan untuk setiap tim.
+   - Analisis perbedaan kehadiran
 5. Kesimpulan dan Rekomendasi
    - Menyimpulkan pola yang ditemukan.
    - Memberikan rekomendasi untuk meningkatkan kehadiran penonton.
+
+  
+**Teknologi dan Library yang Digunakan**
+- Python
+- Library: pandas, matplotlib, seaborn
 
 
 
