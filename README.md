@@ -102,14 +102,16 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 8. Packers
 9. Panthers
 10. Patriots
---
+---
 - Perbandingan kehadiran penonton kandang vs. tandang (10 top tom)
   Sepanjang liga NFL diadakan, jumlah penonton di pertandingan kandang selalu lebih banyak dari pertandingan tandang
---
+
+
 - Grafik tren kehadiran penonton tahunan seluruh tim
-        1. Penonton dengan kehadiran terendah adalah di tahun 2001
-        2. Penonton dengan kehadiran tertinggi adalah di tahun 2016
---
+1. Penonton dengan kehadiran terendah adalah di tahun 2001
+2. Penonton dengan kehadiran tertinggi adalah di tahun 2016
+
+
 - Tim dengan kehadiran tertinggi (2001, 2016 & 2019)
   Dari hasil grafik sebelumnya dan tahun terakhir didapat bahwa:
   1. Tahun 2001 = Tim Jets
