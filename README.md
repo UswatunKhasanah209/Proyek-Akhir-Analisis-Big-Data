@@ -92,8 +92,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 
 💸 **Hasil Analisis**
 - 10 Tim dengan penonton total harian terbanyak sepanjang liga NFL (20 tahun)
-  1. Cowboys        
-  2. Giants           
+1. Cowboys        2. Giants           
   3. Redskins         
   4. Jets             
   5. Broncos         
