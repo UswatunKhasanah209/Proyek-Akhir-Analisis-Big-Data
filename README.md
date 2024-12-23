@@ -86,16 +86,43 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 
 💎 **Teknologi dan Library yang Digunakan**
 - Python, Google Colaboratory
-- Library: seperti pada file requirements.txt
+- Library: seperti pada file
 [File Requirement](https://github.com/UswatunKhasanah209/Proyek-Akhir-Analisis-Big-Data/blob/main/Requirements.txt)
 ---
 
 💸 **Hasil Analisis**
+- 10 Tim dengan penonton total harian terbanyak sepanjang liga NFL (20 tahun)
+  1. Cowboys         6. Chiefs
+  2. Giants          7. Eagles  
+  3. Redskins        8. Packers
+  4. Jets            9. Panthers
+  5. Broncos        10. Patriots
+--
+- Perbandingan kehadiran penonton kandang vs. tandang (10 top tom)
+  Sepanjang liga NFL diadakan, jumlah penonton di pertandingan kandang selalu lebih banyak dari pertandingan tandang
+--
+- Grafik tren kehadiran penonton tahunan seluruh tim
+  1. Penonton dengan kehadiran terendah adalah di tahun 2001
+  2. Penonton dengan kehadiran tertinggi adalah di tahun 2016
+--
+- Tim dengan kehadiran tertinggi (2001, 2016 & 2019)
+  Dari hasil grafik sebelumnya dan tahun terakhir didapat bahwa:
+  1. Tahun 2001 = Tim Jets
+  2. Tahun 2016 = Tim Cowboys
+  3. Tahun 2019 = Tim Cowboys
+  4. Perbandingan kehadiran antar kedua tim pada tahun 2019 hampir mencapai 3 juta penonton
+- Tim Redskins menunjukkan perbedaan terbesar dalam kehadiran penonton antara kandang dan tandang dibandingkan dengan 9 tim teratas lainnya.
+- Grafik perbandingan penonton tim Jets dan Cowboys adalah grafik tim Jets menurun, sedangkan tim Cowboys naik
+---
 
+**Temuan**
+1. Dari variabel weekly_attandance, variabel baru dapat dibuat yakni daily_attendance
+2. Popularitas tim Jets semakin menurun, namun selalu berada pada 10 top tim dengan penonton terbanyak, menandakan kesetiaan penggemar tim Jets
+3. Tim Cowboys pada tahun awal-awal bahkan tidak termasuk dalam 10 top tim, namun bejalannya tahun, popularitasnya semakin naik, dimana puncaknya pada tahun 2016, dan naik paling tajam di tahun 2009. 
 ---
 
 # 🐣 **Kelompok :**
-- [Kharisma Khairun Nisa](https://github.com/KharismaNisa11) - 202110370311209
+- [Kharisma Khairun Nisa](https://github.com/KharismaNisa11) - 202110370311202
 - [Uswatun Khasanah](https://github.com/UswatunKhasanah209) - 202110370311209
 
 
