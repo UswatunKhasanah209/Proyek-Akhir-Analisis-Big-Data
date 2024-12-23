@@ -3,7 +3,7 @@
 # **Mengungkap Pola Kehadiran Penonton di Pertandingan Tim Liga NFL Amerika**
 
 
-# Story Board
+# Tentang
 
 Liga sepak bola Amerika atau yang biasa disebut NFL (National Football League) memiliki basis penggemar yang tidak sediki. Kesetiaan penggemar mereka tidak perlu diragukan lagi, mengingat setiap pertandingan yang diadakan, kehadiran penonton di stadion tidak pernah mengosongkan kursi yang disediakan. Kehadiran penonton sepak bola sendiri, memiliki peran penting dalam mendukung tim sepak bola yang sedang bertanding, hal ini menjadi salah satu indikator keberhasilan acara olahraga. Tentunya, setiap pertandingan memiliki tingkat kehadiran penonton yang beragam, beberapa pertandingan bahkan memiliki kehadiran penonton paling banyak dan sukses dalam sejarah liga Amerika, namun juga tidak sedikit pertandingan yang diadakan memiliki jumlah penonton yang sangat rendah. Hal ini, bisa disebabkan karena faktor seperti lokasi pertandingan, tim yang bertanding, jadwal pertandingan, dan waktu pertandingan diadakan. Sehingga perlu adanya suatu analisis mengenai pola kehadiran penonton pada liga NFL di Amerika ini, karena:
 1. Menurunnya kehadiran penonton pertandingan dapat memengaruhi pendapatan klub yang bertanding
