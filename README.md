@@ -102,8 +102,7 @@ Menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro Football
 8. Packers
 9. Panthers
 10. Patriots
----
-**Hasil Analisis**
+
 - Perbandingan kehadiran penonton kandang vs. tandang (10 top tom)
   Sepanjang liga NFL diadakan, jumlah penonton di pertandingan kandang selalu lebih banyak dari pertandingan tandang
 
