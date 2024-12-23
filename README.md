@@ -114,12 +114,20 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
    - Menyimpulkan pola yang ditemukan.
    - Memberikan rekomendasi untuk meningkatkan kehadiran penonton.
 
-  ---
+
   
-**Teknologi dan Library yang Digunakan**
+💎 **Teknologi dan Library yang Digunakan**
 - Python
 - Library: pandas, matplotlib, seaborn
 
+
+💸 **Hasil**
+...
+
+
+# 🐣 **Kelompok :**
+- Kharisma Khairun Nisa - 202110370311209
+- Uswatun Khasanah - 202110370311209
 
 
 
