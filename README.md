@@ -92,11 +92,24 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 </body>
 </html>
 
-**Pengimporan Data**
 
-Dataset diimpor menggunakan library pandas untuk memudahkan eksplorasi dan analisis.
+**Langkah-langkah Proyek**
 
-Pemeriksaan awal dilakukan untuk melihat struktur data, jumlah baris, kolom, dan tipe data.
+1. Pemuatan dan Eksplorasi Data
+   - Membaca dataset menggunakan pandas.
+   - Mengeksplorasi struktur data, tipe data, dan distribusi fitur.
+2. Pembersihan Data
+   - Mengisi nilai yang hilang pada kolom weekly_attendance.
+   - Memastikan tipe data sesuai untuk analisis (misalnya, tahun sebagai angka).
+3. Analisis Deskriptif
+   - Membandingkan rata-rata kehadiran antara pertandingan kandang dan tandang.
+   - Visualisasi tren mingguan kehadiran sepanjang musim.
+4. Insight dan Visualisasi
+   - Membuat grafik kehadiran mingguan untuk setiap tim.
+   - Analisis perbedaan kehadiran berdasarkan lokasi pertandingan.
+5. Kesimpulan dan Rekomendasi
+   - Menyimpulkan pola yang ditemukan.
+   - Memberikan rekomendasi untuk meningkatkan kehadiran penonton.
 
 
 
