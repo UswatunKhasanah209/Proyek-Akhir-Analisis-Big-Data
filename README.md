@@ -126,8 +126,8 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 
 
 # 🐣 **Kelompok :**
-- Kharisma Khairun Nisa - 202110370311209
-- Uswatun Khasanah - 202110370311209
+- [Kharisma Khairun Nisa](https://github.com/KharismaNisa11) - 202110370311209
+- [Uswatun Khasanah](https://github.com/UswatunKhasanah209) - 202110370311209
 
 
 
