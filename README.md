@@ -40,56 +40,45 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
             <th>Nama Variabel</th>
             <th>Deskripsi</th>
             <th>Tipe Data</th>
-            <th>Statistik Ringkas</th>
         </tr>
         <tr>
             <td>team</td>
             <td>Kode tim</td>
             <td>object</td>
-            <td>Unik: 32</td>
         </tr>
         <tr>
             <td>team_name</td>
             <td>Nama tim</td>
             <td>object</td>
-            <td>Unik: 32</td>
         </tr>
         <tr>
             <td>year</td>
             <td>Tahun</td>
             <td>int64</td>
-            <td>min: 2000.0<br>max: 2019.0<br>mean: 2009.53<br>median: 2010.00</td>
         </tr>
         <tr>
             <td>total</td>
             <td>Total kehadiran sepanjang musim</td>
             <td>int64</td>
-            <td>min: 760644.0<br>max: 1322087.0<br>mean: 1080910.03<br>median: 1081089.50</td>
         </tr>
         <tr>
             <td>home</td>
             <td>Kehadiran di pertandingan kandang</td>
             <td>int64</td>
-            <td>min: 202687.0<br>max: 741775.0<br>mean: 540455.01<br>median: 543185.00</td>
         </tr>
         <tr>
             <td>away</td>
             <td>Kehadiran di pertandingan tandang</td>
             <td>int64</td>
-            <td>min: 450295.0<br>max: 601655.0<br>mean: 540455.01<br>median: 541757.00</td>
         </tr>
         <tr>
             <td>week</td>
             <td>Pekan Pertandingan</td>
             <td>int64</td>
-            <td>min: 1.0<br>max: 17.0<br>mean: 9.00<br>median: 9.00</td>
-        </tr>
         <tr>
             <td>weekly_attendance</td>
             <td>Kehadiran mingguan</td>
             <td>float64</td>
-            <td>min: 23127.0<br>max: 105121.0<br>mean: 67656.27<br>median: 68388.50</td>
-        </tr>
     </table>
 </body>
 </html>
