@@ -12,7 +12,7 @@ Sehingga perlu adanya suatu analisis mengenai pola kehadiran penonton pada liga 
 ---
 
 🗃 **Dataset** = [Dataset NLF](https://www.dropbox.com/sh/q5a07l8yynlgwa7/AADwJykQfJLSSRZsfzLh2ylsa?dl=1)
-Data diambil dari link website _Kaggle_ di atas. Data digunakan untuk analisis pola kehadiran penonton, yang dikumpulkan dari tahun 2001 hingga 2019 oleh pihak _Pro Football Reference_, dengan berisi sebanyak 8 variabel yang ditampilkan pada tabel berikut:
+Data diambil dari link website _Kaggle_ di atas. Data digunakan untuk analisis pola kehadiran penonton, yang dikumpulkan dari tahun 2001 hingga 2019 oleh pihak _Pro Football Reference_, berisi sebanyak 8 variabel yang ditampilkan pada tabel berikut:
 
 <!DOCTYPE html>
 <html>
