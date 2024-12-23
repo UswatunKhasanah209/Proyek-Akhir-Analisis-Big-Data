@@ -92,7 +92,11 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 </body>
 </html>
 
+**Pengimporan Data**
 
+Dataset diimpor menggunakan library pandas untuk memudahkan eksplorasi dan analisis.
+
+Pemeriksaan awal dilakukan untuk melihat struktur data, jumlah baris, kolom, dan tipe data.
 
 
 
