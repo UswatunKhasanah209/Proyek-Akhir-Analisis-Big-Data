@@ -17,7 +17,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 2. Identifikasi tren kehadiran berdasarkan waktu dan lokasi pertandingan, serta tim dengan daya tarik penonton paling banyak.
 3. Menyajikan visualisasi data untuk mendukung temuan analisis
 
-**Tujuan **
+🐳 **Tujuan**
 
 1. Mengidentifikasi tim dengan jumlah kehadiran penonton harian tertinggi
 2. Membandingkan rata-rata kehadiran penonton pada pertandingan kandang dan tandang
