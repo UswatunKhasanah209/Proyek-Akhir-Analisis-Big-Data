@@ -102,17 +102,17 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 5. Kesimpulan dan Rekomendasi
    - Menyimpulkan pola yang ditemukan.
    - Memberikan rekomendasi untuk meningkatkan kehadiran penonton.
-
+---
 
   
 💎 **Teknologi dan Library yang Digunakan**
 - Python
 - Library: pandas, matplotlib, seaborn
-
+---
 
 💸 **Hasil**
 ...
-
+---
 
 # 🐣 **Kelompok :**
 - [Kharisma Khairun Nisa](https://github.com/KharismaNisa11) - 202110370311209
