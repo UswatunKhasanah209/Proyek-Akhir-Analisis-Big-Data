@@ -1,6 +1,6 @@
 ![NFL](https://github.com/UswatunKhasanah209/Proyek-Akhir-Analisis-Big-Data/blob/main/Image/NFL%20versi%20Pnjang.png)
 
-# **Pola Kehadiran Penonton di Pertandingan Tim Liga NFL Amerika**
+📊 # **Pola Kehadiran Penonton di Pertandingan Tim Liga NFL Amerika** 📊
 
 ---
 
