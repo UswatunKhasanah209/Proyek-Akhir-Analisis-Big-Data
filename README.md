@@ -87,7 +87,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 💎 **Teknologi dan Library yang Digunakan**
 - Python, Google Colaboratory
 - Library: seperti pada file requirements.txt
-[File Requirement] ()
+[File Requirement] (https://github.com/UswatunKhasanah209/Proyek-Akhir-Analisis-Big-Data/blob/main/Requirements.txt)
 ---
 
 💸 **Hasil Analisis**
