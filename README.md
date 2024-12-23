@@ -17,12 +17,14 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 2. Identifikasi tren kehadiran berdasarkan waktu dan lokasi pertandingan, serta tim dengan daya tarik penonton paling banyak.
 3. Menyajikan visualisasi data untuk mendukung temuan analisis
 
-Tujuan 
+**Tujuan **
+
 1. Mengidentifikasi tim dengan jumlah kehadiran penonton harian tertinggi
 2. Membandingkan rata-rata kehadiran penonton pada pertandingan kandang dan tandang
 3. Mengamati pola kehadiran total tahunan dari seluruh tim
 4. Menentukan 10 tim dengan tingkat kehadiran tertinggi pada tahun-tahun tertentu, seperti 2001 dan 2016
 5. membandingkan total kehadiran dan rata-rata kehadiran mingguan antara dua tim populer, Cowboys dan Jets, pada tahun 2019.
+
 
 **Dataset** 
 
