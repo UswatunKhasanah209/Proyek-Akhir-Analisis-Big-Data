@@ -11,26 +11,8 @@ Sehingga perlu adanya suatu analisis mengenai pola kehadiran penonton pada liga 
 
 ---
 
-🥅 **Rencana Pendekatan** 
-
-Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro Football Reference) yang mencakup informasi kehadiran mingguan penonton tim sepak bola NFL, baik di kandang maupun tandang. Analisis akan dilakukan dengan langkah-langkah berikut:
-1. Eksplorasi data untuk memahami kehadiran distribusi kehadiran penonton
-2. Identifikasi tren kehadiran berdasarkan waktu dan lokasi pertandingan, serta tim dengan daya tarik penonton paling banyak.
-3. Menyajikan visualisasi data untuk mendukung temuan analisis
-
----
-
-🐳 **Tujuan**
-
-1. Mengidentifikasi tim dengan jumlah kehadiran penonton harian tertinggi
-2. Membandingkan rata-rata kehadiran penonton pada pertandingan kandang dan tandang
-3. Mengamati pola kehadiran total tahunan dari seluruh tim
-4. Menentukan 10 tim dengan tingkat kehadiran tertinggi pada tahun-tahun tertentu, seperti 2001 dan 2016
-5. membandingkan total kehadiran dan rata-rata kehadiran mingguan antara dua tim populer, Cowboys dan Jets, pada tahun 2019.
-
----
-
 🗃 **Dataset** = [Dataset NLF](https://www.dropbox.com/sh/q5a07l8yynlgwa7/AADwJykQfJLSSRZsfzLh2ylsa?dl=1)
+Data diambil dari link website _Kaggle_ di atas. Data digunakan untuk analisis pola kehadiran penonton, yang dikumpulkan dari tahun 2001 hingga 2019 oleh pihak _Pro Football Reference_, dengan berisi sebanyak 8 variabel yang ditampilkan pada tabel berikut:
 
 <!DOCTYPE html>
 <html>
@@ -84,34 +66,32 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 </html>
 
 ---
+🥅 **Rencana Pendekatan** 
 
-📝 **Langkah-langkah Proyek**
+Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro Football Reference) yang mencakup informasi kehadiran penonton tim sepak bola NFL, baik di kandang maupun tandang. Rencana pendekatan akan dilakukan dengan proses berikut :
 
 1. Pemuatan dan Eksplorasi Data
-   - Membaca dataset menggunakan pandas.
+   - Impor library untuk memproses dataset.
    - Mengeksplorasi struktur data, tipe data, dan distribusi fitur.
 2. Pembersihan Data
-   - Mengisi nilai yang hilang pada kolom weekly_attendance.
-   - Memastikan tipe data sesuai untuk analisis (misalnya, tahun sebagai angka).
+   - Memastikan tipe data sesuai untuk analisis (misalnya, tahun sebagai int),         untuk memastikan tipe data sesuai dengan analisis yang dibutuhkan
+   - Cek nilai hilang dataset, untuk mencegah bias/kesalahan pada hasil analisis.
 3. Analisis Deskriptif
-   - Membandingkan rata-rata kehadiran antara pertandingan kandang dan tandang.
-   - Visualisasi tren mingguan kehadiran sepanjang musim.
-4. Insight dan Visualisasi
-   - Membuat grafik kehadiran mingguan untuk setiap tim.
-   - Analisis perbedaan kehadiran
-5. Kesimpulan dan Rekomendasi
-   - Menyimpulkan pola yang ditemukan.
-   - Memberikan rekomendasi untuk meningkatkan kehadiran penonton.
+   - Visualisasi tren kehadiran sepanjang musim.
+   - Analisis hasil dari pola visualisasi dan tren yang terbentuk
+4. Rangkuman dan Temuan
+   - Menyimpulkan pola yang ditemukan dari seluruh proses analisis.
+   - Menampilkan fakta-fakta unik yang ditemukan dari hasil analisis
 ---
 
-  
 💎 **Teknologi dan Library yang Digunakan**
-- Python
-- Library: pandas, matplotlib, seaborn
+- Python, Google Colaboratory
+- Library: seperti pada file requirements.txt
+[File Requirement] ()
 ---
 
-💸 **Hasil**
-...
+💸 **Hasil Analisis**
+
 ---
 
 # 🐣 **Kelompok :**
