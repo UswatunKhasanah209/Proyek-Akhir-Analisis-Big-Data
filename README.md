@@ -12,7 +12,7 @@ Sehingga perlu adanya suatu analisis mengenai pola kehadiran penonton pada liga 
 ---
 
 🗃 **Dataset** = [Dataset NLF](https://www.dropbox.com/sh/q5a07l8yynlgwa7/AADwJykQfJLSSRZsfzLh2ylsa?dl=1)
-Data diambil dari link website _Kaggle_ di atas. Data digunakan untuk analisis pola kehadiran penonton, yang dikumpulkan dari tahun 2001 hingga 2019 oleh pihak _Pro Football Reference_, berisi sebanyak 8 variabel yang ditampilkan pada tabel berikut:
+Data diambil dari link website _Kaggle_ di atas. Data digunakan untuk analisis pola kehadiran penonton, yang dikumpulkan dari tahun 2000 hingga 2019 oleh pihak _Pro Football Reference_, berisi sebanyak 8 variabel yang ditampilkan pada tabel berikut:
 
 <!DOCTYPE html>
 <html>
@@ -68,13 +68,13 @@ Data diambil dari link website _Kaggle_ di atas. Data digunakan untuk analisis p
 ---
 🥅 **Rencana Pendekatan** 
 
-Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro Football Reference) yang mencakup informasi kehadiran penonton tim sepak bola NFL, baik di kandang maupun tandang. Rencana pendekatan akan dilakukan dengan proses berikut :
+Menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro Football Reference) yang mencakup informasi kehadiran penonton tim sepak bola NFL, baik di kandang maupun tandang, analisis akan dilakukan dengan rencana pendekatan sebagai berikut :
 
 1. Pemuatan dan Eksplorasi Data
    - Impor library untuk memproses dataset.
    - Mengeksplorasi struktur data, tipe data, dan distribusi fitur.
 2. Pembersihan Data
-   - Memastikan tipe data sesuai untuk analisis (misalnya, tahun sebagai int),         untuk memastikan tipe data sesuai dengan analisis yang dibutuhkan
+   - Memastikan tipe data sesuai untuk analisis (misalnya, tahun sebagai int), untuk memastikan tipe data sesuai dengan analisis yang dibutuhkan
    - Cek nilai hilang dataset, untuk mencegah bias/kesalahan pada hasil analisis.
 3. Analisis Deskriptif
    - Visualisasi tren kehadiran sepanjang musim.
@@ -91,7 +91,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 ---
 
 💸 **Hasil Analisis**
-- 10 Tim dengan penonton total harian terbanyak sepanjang liga NFL (20 tahun)
+- 10 Tim dengan penonton total harian terbanyak sepanjang liga NFL (2000-2019)
 1. Cowboys			 
 2. Giants			          
 3. Redskins			      
@@ -113,19 +113,22 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 
 
 - Tim dengan kehadiran tertinggi (2001, 2016 & 2019)
-  Dari hasil grafik sebelumnya dan tahun terakhir didapat bahwa:
+  Dari hasil grafik sebelumnya dan tahun terakhir didapat bahwa tim dengan kehadiran penonton terbanyak diduduki oleh:
   1. Tahun 2001 = Tim Jets
   2. Tahun 2016 = Tim Cowboys
   3. Tahun 2019 = Tim Cowboys
-  4. Perbandingan kehadiran antar kedua tim pada tahun 2019 hampir mencapai 3 juta penonton
-- Tim Redskins menunjukkan perbedaan terbesar dalam kehadiran penonton antara kandang dan tandang dibandingkan dengan 9 tim teratas lainnya.
-- Grafik perbandingan penonton tim Jets dan Cowboys adalah grafik tim Jets menurun, sedangkan tim Cowboys naik
+  4. Perbandingan kehadiran antara kedua tim pada tahun 2019 hampir mencapai 3 juta penonton
+     
+- Tim Redskins menunjukkan perbedaan perbandingan terbesar dalam kehadiran penonton antara kandang dan tandang dari 9 tim teratas lainnya.
+- Grafik perbandingan penonton tim Jets dan Cowboys adalah grafik tim Jets cenderung menurun, sedangkan tim Cowboys cenderung naik
 ---
-
+**Rangkuman**
+Hasil analisis di atas dapat disimpulkan bahwa tim Dallas Cowboys dan New York Giants menduduki peringkat teratas dalam hal jumlah penonton harian, mencerminkan popularitas yang sangat besar di kalangan penggemar. Kehadiran penonton di pertandingan kandang secara lebih tinggi daripada di pertandingan tandang, menunjukkan dukungan kuat dari basis penggemar setia di lokasi mereka. Tren tahunan menunjukkan fluktuasi, dengan jumlah penonton terendah tercatat pada tahun 2001, sedangkan tahun 2016 menandai puncak kehadiran. Cowboys menonjol sebagai tim dengan kehadiran tertinggi pada tahun 2016 dan 2019, sementara tim Jets mencatat kehadiran tertinggi pada tahun 2001. Perbandingan antara Jets dan Cowboys menunjukkan penurunan yang signifikan pada tim Jets, sementara Cowboys menunjukkan pertumbuhan yang stabil. Selain itu, tim Redskins menunjukkan perbedaan paling mencolok dalam perbandingan kehadiran antara pertandingan kandang dan tandang, semakin menggarisbawahi variasi dalam pengalaman penonton di berbagai venue.
+---
 **Temuan**
 1. Dari variabel weekly_attandance, variabel baru dapat dibuat yakni daily_attendance
 2. Popularitas tim Jets semakin menurun, namun selalu berada pada 10 top tim dengan penonton terbanyak, menandakan kesetiaan penggemar tim Jets
-3. Tim Cowboys pada tahun awal-awal bahkan tidak termasuk dalam 10 top tim, namun bejalannya tahun, popularitasnya semakin naik, dimana puncaknya pada tahun 2016, dan naik paling tajam di tahun 2009. 
+3. Tim Cowboys pada tahun awal-awal bahkan tidak termasuk dalam 10 top tim, namun bejalannya tahun popularitasnya semakin naik, dimana puncaknya pada tahun 2016, dan naik paling tajam di tahun 2009. 
 ---
 
 # 🐣 **Kelompok :**
