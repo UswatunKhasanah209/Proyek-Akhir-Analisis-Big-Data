@@ -92,11 +92,16 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 
 💸 **Hasil Analisis**
 - 10 Tim dengan penonton total harian terbanyak sepanjang liga NFL (20 tahun)
-  1. Cowboys         6. Chiefs
-  2. Giants          7. Eagles  
-  3. Redskins        8. Packers
-  4. Jets            9. Panthers
-  5. Broncos        10. Patriots
+  1. Cowboys        
+  2. Giants           
+  3. Redskins         
+  4. Jets             
+  5. Broncos         
+  6. Chiefs
+  7. Eagles
+  8. Packers
+  9. Panthers
+  10. Patriots
 --
 - Perbandingan kehadiran penonton kandang vs. tandang (10 top tom)
   Sepanjang liga NFL diadakan, jumlah penonton di pertandingan kandang selalu lebih banyak dari pertandingan tandang
