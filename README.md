@@ -1,4 +1,4 @@
-![NFL](https://github.com/UswatunKhasanah209/Proyek-Akhir-Analisis-Big-Data/blob/main/Image/nfl.png)
+![Alt text](\https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Fsports%2Fnfl-logo-14916.html&psig=AOvVaw0c8GsRCcedn9AtRnxKhuOr&ust=1735027365843000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCmxdm2vYoDFQAAAAAdAAAAABAE)
 
 # **Pola Kehadiran Penonton di Pertandingan Tim Liga NFL Amerika**
 
