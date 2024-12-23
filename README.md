@@ -128,9 +128,9 @@ Hasil analisis di atas dapat disimpulkan bahwa tim Dallas Cowboys dan New York G
 
 ---
 **Temuan**
-1. Dari variabel weekly_attandance, variabel baru dapat dibuat yakni daily_attendance
-2. Popularitas tim Jets semakin menurun, namun selalu berada pada 10 top tim dengan penonton terbanyak, menandakan kesetiaan penggemar tim Jets
-3. Tim Cowboys pada tahun awal-awal bahkan tidak termasuk dalam 10 top tim, namun bejalannya tahun popularitasnya semakin naik, dimana puncaknya pada tahun 2016, dan naik paling tajam di tahun 2009.
+- Dari variabel weekly_attandance, variabel baru dapat dibuat yakni daily_attendance
+- Popularitas tim Jets semakin menurun, namun selalu berada pada 10 top tim dengan penonton terbanyak, menandakan kesetiaan penggemar tim Jets
+- Tim Cowboys pada tahun awal-awal bahkan tidak termasuk dalam 10 top tim, namun bejalannya tahun popularitasnya semakin naik, dimana puncaknya pada tahun 2016, dan naik paling tajam di tahun 2009.
 ---
 
 # 🐣 **Kelompok :**
