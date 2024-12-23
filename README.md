@@ -2,11 +2,12 @@
 
 # **Mengungkap Pola Kehadiran Penonton di Pertandingan Tim Liga NFL Amerika**
 
+---
 
 ✨ **Tentang** 
 
-    Liga sepak bola Amerika atau yang biasa disebut NFL (National Football League) memiliki basis penggemar yang tidak sedikit. Kesetiaan penggemar mereka tidak perlu diragukan lagi, mengingat setiap pertandingan yang diadakan, kehadiran penonton di stadion tidak pernah menyisakan kursi yang disediakan. Kehadiran penonton sepak bola sendiri, memiliki peran penting dalam mendukung tim sepak bola yang sedang bertanding, hal ini menjadi salah satu indikator keberhasilan acara olahraga. Tentunya, setiap pertandingan memiliki tingkat kehadiran penonton yang beragam, beberapa pertandingan bahkan memiliki kehadiran penonton paling banyak dan sukses dalam sejarah liga Amerika, namun juga tidak sedikit pertandingan yang diadakan memiliki jumlah penonton yang sangat rendah. Hal ini, bisa disebabkan karena faktor seperti lokasi pertandingan, tim yang bertanding, jadwal pertandingan, dan waktu pertandingan diadakan.
-    Sehingga perlu adanya suatu analisis mengenai pola kehadiran penonton pada liga NFL di Amerika ini, karena menurunnya kehadiran penonton pertandingan dapat memengaruhi pendapatan klub yang bertanding, pemahaman mengenai pola kehadiran penonton dapat membantu pengelola acara liga dalam membuat keputusan strategis. Dari hasil analisis, anda dapat menelusuri lebih dalam mengenai fakta-fakta yang mungkin belum terungkap dengan informasi yang tersedia pada umumnya. Dengan pendekatan dan analisis yang komprehensif, project ini akan membawa anda melihat pertandingan dari perspektif yang berbeda.
+Liga sepak bola Amerika atau yang biasa disebut NFL (National Football League) memiliki basis penggemar yang tidak sedikit. Kesetiaan penggemar mereka tidak perlu diragukan lagi, mengingat setiap pertandingan yang diadakan, kehadiran penonton di stadion tidak pernah menyisakan kursi yang disediakan. Kehadiran penonton sepak bola sendiri, memiliki peran penting dalam mendukung tim sepak bola yang sedang bertanding, hal ini menjadi salah satu indikator keberhasilan acara olahraga. Tentunya, setiap pertandingan memiliki tingkat kehadiran penonton yang beragam, beberapa pertandingan bahkan memiliki kehadiran penonton paling banyak dan sukses dalam sejarah liga Amerika, namun juga tidak sedikit pertandingan yang diadakan memiliki jumlah penonton yang sangat rendah. Hal ini, bisa disebabkan karena faktor seperti lokasi pertandingan, tim yang bertanding, jadwal pertandingan, dan waktu pertandingan diadakan.
+Sehingga perlu adanya suatu analisis mengenai pola kehadiran penonton pada liga NFL di Amerika ini, karena menurunnya kehadiran penonton pertandingan dapat memengaruhi pendapatan klub yang bertanding, pemahaman mengenai pola kehadiran penonton dapat membantu pengelola acara liga dalam membuat keputusan strategis. Dari hasil analisis, anda dapat menelusuri lebih dalam mengenai fakta-fakta yang mungkin belum terungkap dengan informasi yang tersedia pada umumnya. Dengan pendekatan dan analisis yang komprehensif, project ini akan membawa anda melihat pertandingan dari perspektif yang berbeda.
 
 ---
 
@@ -17,6 +18,8 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 2. Identifikasi tren kehadiran berdasarkan waktu dan lokasi pertandingan, serta tim dengan daya tarik penonton paling banyak.
 3. Menyajikan visualisasi data untuk mendukung temuan analisis
 
+---
+
 🐳 **Tujuan**
 
 1. Mengidentifikasi tim dengan jumlah kehadiran penonton harian tertinggi
@@ -25,6 +28,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 4. Menentukan 10 tim dengan tingkat kehadiran tertinggi pada tahun-tahun tertentu, seperti 2001 dan 2016
 5. membandingkan total kehadiran dan rata-rata kehadiran mingguan antara dua tim populer, Cowboys dan Jets, pada tahun 2019.
 
+---
 
 🗃 **Dataset** [Dataset NLF](https://www.dropbox.com/sh/q5a07l8yynlgwa7/AADwJykQfJLSSRZsfzLh2ylsa?dl=1)
 
@@ -90,6 +94,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 </body>
 </html>
 
+---
 
 📝 **Langkah-langkah Proyek**
 
@@ -109,6 +114,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
    - Menyimpulkan pola yang ditemukan.
    - Memberikan rekomendasi untuk meningkatkan kehadiran penonton.
 
+  ---
   
 **Teknologi dan Library yang Digunakan**
 - Python
