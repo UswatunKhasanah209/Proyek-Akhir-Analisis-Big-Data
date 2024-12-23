@@ -93,7 +93,7 @@ Dengan menggunakan dataset yang diambil dari referensi tim Sepak Bola Pro (Pro F
 </html>
 
 
-**Langkah-langkah Proyek**
+📝 **Langkah-langkah Proyek**
 
 1. Pemuatan dan Eksplorasi Data
    - Membaca dataset menggunakan pandas.
