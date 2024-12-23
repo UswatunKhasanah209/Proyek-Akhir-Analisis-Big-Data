@@ -1,0 +1,9 @@
+Import yang diperlukan
+
+import zipfile
+import os
+import requests
+import pandas as pd
+from IPython.display import display, HTML
+import matplotlib.pyplot as plt
+import numpy as np
