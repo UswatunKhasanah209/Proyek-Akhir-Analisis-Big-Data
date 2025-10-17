@@ -134,8 +134,8 @@ Hasil analisis di atas dapat disimpulkan bahwa tim Dallas Cowboys dan New York G
 ---
 
 # 🐣 **Kelompok :**
-- [Kharisma Khairun Nisa](https://github.com/KharismaNisa11) - 202110370311202
 - [Uswatun Khasanah](https://github.com/UswatunKhasanah209) - 202110370311209
+- [Kharisma Khairun Nisa](https://github.com/KharismaNisa11) - 202110370311202
 
 
 
